@@ -1,1 +1,2 @@
 # AssesmentLabAplikasiWeb1
+Program ini dibuat untuk menerapkan konsep Object-Oriented Programming (OOP) dalam bahasa pemrograman PHP melalui contoh sistem sederhana pengelolaan hewan di kebun binatang. Dalam program ini, dibuat sebuah class induk bernama Hewan yang berfungsi sebagai representasi umum dari semua jenis hewan. Class ini memiliki dua properti utama, yaitu id dan nama, yang digunakan untuk menyimpan identitas setiap hewan. Selain itu, class Hewan juga memiliki sebuah method displayInfo() yang digunakan untuk menampilkan informasi dasar dari hewan tersebut.
